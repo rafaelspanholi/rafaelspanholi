@@ -1,16 +1,16 @@
+[RafaelSpanholi](https://github.com/rafaelspanholi/rafaelspanholi) / readme.md
+
 ### Hi there 👋
 
-<!--
-**rafaelspanholi/rafaelspanholi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Rafael Spanholi, business administrator, comercial airplane pilot and maker.
 
-Here are some ideas to get you started:
+📍 Im brazilian, born in Porto Alegre-Rs currently living in Fortaleza - Ceará. I'm also an Italian Citizen.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Graduated in Business Administration.
+
+✈️ I'm an Airplane pilot with instruments and multi engine ratings.
+
+🚗 I work as a Manager at my family's Auto Repair Shop where I work the office, manage the supply chain, human resources, equipment maintenance and **MUCH** more.
+
+
+
