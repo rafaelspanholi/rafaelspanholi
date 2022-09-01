@@ -10,7 +10,7 @@ I'm Rafael Spanholi, business administrator, comercial airplane pilot and maker.
 
 ✈️ I'm an Airplane pilot with instruments and multi engine ratings.
 
-🚗 I work as a Manager at my family's Auto Repair Shop where I work the office, manage the supply chain, human resources, equipment maintenance and **MUCH** more.
+🚗 I work as a Manager at my family's Auto Repair Shop where I manage the supply chain, human resources, equipment maintenancem logistics and **MUCH** more.
 
 
 
