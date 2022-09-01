@@ -10,7 +10,7 @@ I'm a business administrator, commercial airplane pilot and maker.
  
  🎓 Graduated in Business Administration.
  
- ✈️ I'm an Airplane pilot with instruments and multi engine ratings.
+ ✈️ Airplane pilot. 
  
  🚗 I work as a Manager at my family's Auto Repair Shop where I manage the supply chain, human resources, equipment maintenance logistics and **MUCH**      more.
  
