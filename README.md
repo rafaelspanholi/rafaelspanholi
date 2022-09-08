@@ -1,4 +1,4 @@
-<img src="https://c.tenor.com/90SEF-Ptnx8AAAAM/hello-hey.gif" width="120" >
+<img src="https://c.tenor.com/90SEF-Ptnx8AAAAM/hello-hey.gif" width="15%" align=left>
 
 ### Hello, I'm [Rafael Spanholi](https://www.linkedin.com/in/pedro-rafael-ervedosa-spanholi-06ab8014a/)! 
 
