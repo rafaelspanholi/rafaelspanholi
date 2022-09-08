@@ -12,6 +12,6 @@ I'm a business administrator, commercial airplane pilot and maker.
  
  ✈️ Airplane pilot. 
  
- 🚗 I work as a Manager at my family's Auto Repair Shop where I manage the supply chain, human resources, equipment maintenance logistics and **MUCH**      more.
+ 🚗 I work as a Manager at my family's Auto Repair Shop where I manage the supply chain, human resources, equipment maintenance logistics and **MUCH** more.
  
  :computer:	Currently learning to code at [Digital College](https://digitalcollege.com.br/)
